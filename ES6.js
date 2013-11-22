@@ -1143,7 +1143,7 @@ void function(__object__, __array__, __global__)
 	 * set.has(function() {}); // false
 	 *
 	 * // Removes the value
-	 * map.delete(-0); // true
+	 * set.delete(-0); // true
 	 *
 	 * // Getting the number of values in Set
 	 * set.size(); // 7
